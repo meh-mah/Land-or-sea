@@ -9,8 +9,7 @@ a number of regions. The unbounded region, which lies outside all of the boxes, 
 two regions that share a boundary may share the same classification. The task is to output the
 number of regions classified as “land”.
 
-
-Blue = sea, Yellow = land.
+![](image/Untitled.png)
 
 You can expect each box to be defined in terms of the Cartesian coordinates of its minimum
 corner {a, b} and its maximum corner {c, d} such that a < c and b < d. If you make any other
